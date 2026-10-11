@@ -16,24 +16,10 @@
 ## 🧑‍💻 About Me
 
 - 🎓 B.Tech in Computer Science Engineering at **KKR & KSR Institute of Technology and Sciences** (2027)
-- 🛡️ Recognized by **NASA** with an official Letter of Recognition for responsible vulnerability disclosure
-- 🏆 Ranked **25th nationally** in the HackWithIndiaa All-India hacking competition
+- 🛡️ Penetration Tester and Bug Bounty Hunter
 - 🤖 Building **RAG pipelines, LLM apps, and AI-driven security tools**
-- 🌱 Currently learning **LLMOps** (GenAI Nexus Fellowship, CareerTiQ)
-- 💼 Open to full-time roles in **Cybersecurity, AI/ML, and Software Engineering**
+- 👀 Intrested in **Cybersecurity, AI/ML, and Software Engineering**
 
----
-
-## 🏅 Highlights
-
-| | |
-|---|---|
-| 🚀 **NASA** | Letter of Recognition + Hall of Fame |
-| 🌐 **Hall of Fame** | Recreation.gov, Workoutgen, and 10+ other platforms |
-| 🥇 **Competitions** | 2× Hackathon Winner · 2× Coding Competition Winner |
-| 🧠 **Web Dev Competition** | Winner, built entirely without AI-assisted tooling |
-| 📜 **Certification** | APIsec Certified Practitioner (ACP) |
-| 💡 **LeetCode** | 120+ problems solved |
 
 ---
 
@@ -85,59 +71,7 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
----
-
-## 🚀 Featured Projects
-
-### ⚖️ Lease Agreement Review Assistant
-Enterprise-grade, deterministic LegalTech system that reviews lease agreements clause by clause using **Gemini AI + RAG vector retrieval**.
-- **Zero-hallucination pipeline**: every AI-cited quote is verified against the source document
-- **SHA-256 in-memory cache** cuts repeat-audit turnaround to under **5 ms**
-- Auto-generates **ready-to-sign counter-offer addenda**
-- Multi-format ingestion (`.pdf`, `.docx`, `.txt`, `.md`), validated on 8 synthetic lease scenarios
-- Deployed on **Vercel**
-
-`Python` `Gemini` `RAG` `Vector DB` `Vercel`  
-🔗 [Live Demo](#) · [GitHub](https://github.com/Gopibannu)
-
-### 🛡️ AI SOC Analyst
-Python-based system that parses security logs and simulates SOC alert workflows, with **anomaly detection** and **severity-based prioritization** to automate first-pass threat triage.
-
-`Python` `Security Logs` `Anomaly Detection`  
-🔗 [GitHub](https://github.com/Gopibannu)
-
-### 🔄 AI Code Converter
-Full-stack web app that converts source code between programming languages in real time using an integrated AI API, with a backend layer built to handle concurrent conversion requests.
-
-`React` `Node.js` `AI API`  
-🔗 [Live Demo](#)
-
-### 🎧 Image-to-Audio Data Encoder & Decoder
-Signal-processing pipeline (pixel → binary → frequency → audio → reverse decode) that encodes an image as audio and reconstructs the original **losslessly**.
-
-`Python` `Signal Processing`  
-🔗 [GitHub](https://github.com/Gopibannu)
-
-### 🎨 Solo Levelling (Frontend)
-Responsive UI with a clean layout and reusable, structured components.
-
-`HTML` `CSS` `JavaScript`  
-🔗 [GitHub](https://github.com/Gopibannu)
-
----
-
-## 💼 Experience
-
-**AI/ML Intern** · TapTap by BlackBucks (Blackbucks Education Pvt. Ltd.) · *Jun 2026 – Jul 2026*
-- 8-week structured internship aligned with APSCHE guidelines
-- Built a **brain tumor detection model** using CNNs to classify MRI scans
-
-**Web Development Domain Co-Lead** · Google Developer Groups On Campus, KITS · *Aug 2024 – Aug 2025*
-- Co-led web development for a **100+ member** developer community
-- Mentored **50+ students** on secure coding, REST APIs, and authentication flows
-- Reviewed project submissions for architecture, performance, and security
-
----
+----
 
 ## 📊 GitHub Stats
 
